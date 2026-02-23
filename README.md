@@ -1,4 +1,5 @@
 📊 Retail Sales Analytics – SQL Business Intelligence Project
+
 📌 Project Overview
 
 This project analyzes 10,000+ retail transactions using SQL to uncover actionable business insights related to revenue performance, profitability, customer behavior, and growth trends. The objective was to simulate a real-world Business Intelligence use case by:
